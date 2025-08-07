@@ -1,6 +1,4 @@
 | Name         | Link                            | Updated    |
-| :----------- | :-------------------------------| :--------- |
-| Adzuna       | http://www.adzuna.com.au        | 00/00/0000 |
-| Apply Now AU | http://www.applynow.com.au      | 00/00/0000 |
-| Job View     | http://jobview.careerone.com.au | 00/00/0000 |
-| PreviousNext | https://www.previousnext.com.au | 00/00/0000 |
+| :----------- | :------------------------------ | :--------- |
+| Adzuna       | http://www.adzuna.com.au        | 07/08/2025 |
+| Job View     | https://www.careerone.com.au/   | 07/08/2025 |
