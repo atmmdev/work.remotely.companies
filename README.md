@@ -3,7 +3,7 @@
   <h1>Anderson Toledo Martins Moreira</h1>
   <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a>
 
-> Frontend Software Developer | WordPress Software Developer that love learn and improve your skills in programming languages like CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress).
+> Software Developer, based in Rio de Janeiro, Brazil. Hands-on in CSS (SASS, Bootstrap, TailwindCSS), JavaScript, React (Nextjs), Typescript, Node (Nestjs), PHP (WordPress), MySQL, MongoDB, TDD, DDD, Clean Architecture and Clean Code. Learning C# and ASP.Net Core.
 
 </div>
 
