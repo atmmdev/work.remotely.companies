@@ -4,17 +4,9 @@
 | Career Beacon          | https://www.careerbeacon.com                          | 08/09/2025           |
 | Dice                   | http://www.dice.com                                   | 08/09/2025           |
 | Eluta                  | https://www.eluta.ca                                  | 00/00/0000           |
-
-| Envoy                  | https://envoy.com                                     | 00/00/0000           |
-| Fep Search Group       | http://www.fepsearchgroup.com                         | 00/00/0000           |
-| Formidable             | https://www.formidable.com                            | 00/00/0000           |
 | Fresh Gigs             | http://www.freshgigs.ca                               | 00/00/0000           |
-| Front Jobs             | http://frontjobs.com.br                               | 00/00/0000           |
-| Geography Jobs         | http://www.geographyjobs.ca                           | 00/00/0000           |
-| Goodland               | https://en.goodland.io                                | 00/00/0000           |
-| Gurulink               | http://www.gurulink.ca                                | 00/00/0000           |
 | Head Hunters Directory | http://www.headhuntersdirectory.com                   | 00/00/0000           |
-| Help Unlimited         | http://www.helpunlimited.ca                           | 00/00/0000           |
+
 | Higher Bracket         | http://www.higherbracket.ca                           | 00/00/0000           |
 | Hire Canada            | http://www.hirecanada.ca                              | 00/00/0000           |
 | Hire Immigrants        | http://www.hireimmigrants.ca                          | 00/00/0000           |
