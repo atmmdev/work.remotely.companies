@@ -13,7 +13,7 @@
 
 </div>
 
-## Salaries for Countries (Avarage in 2025)
+## Salaries for Countries (Average in 2025)
 
 | Country     | React Developer (USD/year) | React Developer (Monthly) | WordPress Developer (USD/year) | WordPress Developer (Monthly) | C# / .NET Developer (USD/year) | C# / .NET Developer (Monthly) |
 | ----------- | -------------------------- | ------------------------- | ------------------------------ | ----------------------------- | ------------------------------ | ----------------------------- |
